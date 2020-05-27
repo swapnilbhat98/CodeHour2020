@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url('../images/background-image.jpg');
+	color: white;
+}
+
+.container{
+	margin-top: 30px;
+}
+
+
+.loginzone{
+	border: 2px solid white;
+	border-radius: 10%
+}
+
+input{
+	background-color: transparent;
+	border:0px;
+	border-bottom: 1px solid white;
+	color: white;
+}
+
+button{
+	width: 200px;
+	border-radius: 10%;
+	background-color: transparent;
+	color: white;
+}
+
+.ques a{
+	color:white;
+	text-decoration: none;
+}
